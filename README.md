@@ -23,9 +23,9 @@ For both cases, analyzed the count of the target classes, train a logistic regre
 <br></br>
 * Machine Learning Model 2:
   * Logistic Regression Model with Resampled Training Data
-        * Accuracy: 99%  
-        * Precision: 84% 
-        * Recall: 99%
+    * Accuracy: 99%  
+    * Precision: 84% 
+    * Recall: 99%
 
 ## Summary
 
